@@ -1,0 +1,1 @@
+-ollama local model llama3.2:latest  
