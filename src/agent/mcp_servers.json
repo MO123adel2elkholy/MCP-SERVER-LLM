@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "time": {
+      "command": "uvx",
+      "args": ["mcp-server-time"]
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": ["mcp-server-fetch"]
+    },
+    "username-local": {
+      "type": "stdio",
+      "command": "G:\\MCP-SERVER-LLM\\.venv\\Scripts\\python.exe",
+      "args": [
+        "G:\\MCP-SERVER-LLM\\src\\mcp_server\\hello_mcp.py"
+      ],
+      "cwd": "G:\\MCP-SERVER-LLM",
+      "env": {
+        "PYTHONPATH": "G:\\MCP-SERVER-LLM\\src"
+      }
+    },
+    "database-local": {
+      "type": "stdio",
+      "command": "G:\\MCP-SERVER-LLM\\.venv\\Scripts\\python.exe",
+      "args": [
+        "G:\\MCP-SERVER-LLM\\src\\mcp_server\\database_mcp_server.py"
+      ],
+      "cwd": "G:\\MCP-SERVER-LLM",
+      "env": {
+        "PYTHONPATH": "G:\\MCP-SERVER-LLM\\src"
+      }
+    }
+  }
+}
+
+
+
