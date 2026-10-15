@@ -1,0 +1,6 @@
+- The user's name is mahmoud and they are 25 years old.
+- he is a software engineer with 3 years of experience in web development.
+- he has strong backend developmet skill in pyhton and Django framework.
+- he is also proficient in frontend technologies like HTML, CSS, and JavaScript.
+- he has experience working with databases such as MySQL and PostgreSQL.- Hey Mahmoud, a software engineer with 3 years of experience in web development, and strong backend development skills in Python and Django framework.
+- Add to backend skills: Mahmoud, a software engineer with 3 years of experience in web development, and strong backend development skills in Python and Django framework, also experience with Flask, FastAPI, and MongoDB.
